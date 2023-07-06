@@ -1,0 +1,132 @@
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 08/08/2022 11:32:01
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 10/08/2022 03:49:01
+{"statusDetail":"IP address, which the request originates from, is not listed withing the allowed-host-address list.","version":"1.0","statusCode":"E1303"} 13/08/2022 10:14:43
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/08/2022 07:02:01
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/08/2022 10:13:22
+{"subscriptionStatus":"REGISTERED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 15/08/2022 10:20:22
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/08/2022 10:23:44
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 17/08/2022 09:35:33
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 17/08/2022 09:44:41
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 18/08/2022 10:39:23
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 18/08/2022 10:40:01
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 18/08/2022 11:09:11
+{"subscriptionStatus":"REGISTERED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 18/08/2022 11:10:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 30/08/2022 08:18:54
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 19/09/2022 09:04:02
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 20/09/2022 11:27:25
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 21/09/2022 06:51:27
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 30/09/2022 09:30:20
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 30/09/2022 09:39:16
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 01/10/2022 09:19:47
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 01/10/2022 05:28:54
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 01/10/2022 05:29:59
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 02/10/2022 11:10:09
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 08:35:25
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 09:34:57
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 09:36:10
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 01:26:17
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 04:50:22
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/11/2022 06:26:39
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 21/11/2022 12:02:28
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 21/11/2022 06:01:30
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/11/2022 10:56:06
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/11/2022 08:19:47
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/11/2022 08:05:03
+{"subscriptionStatus":"TEMPORARY BLOCKED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 12/12/2022 09:38:59
+{"subscriptionStatus":"REGISTERED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 20/12/2022 09:45:32
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 07/01/2023 09:45:22
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 07/01/2023 09:49:35
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 08/01/2023 07:58:54
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/02/2023 07:48:30
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/02/2023 07:49:33
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 23/02/2023 07:50:53
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/02/2023 07:57:53
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/02/2023 03:39:09
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/02/2023 03:39:18
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/02/2023 07:00:34
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 06/03/2023 05:57:18
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 06/03/2023 08:44:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 08/03/2023 10:49:29
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 11/03/2023 09:38:54
+{"subscriptionStatus":"REGISTERED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 12/03/2023 10:20:04
+{"subscriptionStatus":"REGISTERED","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 14/03/2023 07:37:42
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/03/2023 10:39:22
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/03/2023 08:50:59
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 28/03/2023 01:39:33
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 28/03/2023 01:40:04
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 01/04/2023 02:25:22
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 02/04/2023 07:06:19
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 02/04/2023 07:07:09
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 10/04/2023 09:06:38
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 17/04/2023 09:49:37
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 17/04/2023 09:50:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:07:42
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:08:05
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:08:30
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:09:20
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:09:52
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 23/04/2023 11:10:31
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 05/05/2023 12:12:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 05/05/2023 12:13:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 05/05/2023 12:13:44
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/05/2023 07:39:25
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/05/2023 07:39:45
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"Default Error has occurred.","version":"1.0","statusCode":"E1300"} 15/05/2023 07:40:48
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"Default Error has occurred.","version":"1.0","statusCode":"E1300"} 15/05/2023 07:41:15
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"Default Error has occurred.","version":"1.0","statusCode":"E1300"} 15/05/2023 10:07:02
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:23:14
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:23:49
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:24:19
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:24:53
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:25:28
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:25:53
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:26:16
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:26:50
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 24/05/2023 06:27:12
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 29/05/2023 08:43:36
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 06/06/2023 06:36:07
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 06/06/2023 06:37:45
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 10/06/2023 09:46:58
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 11/06/2023 04:18:57
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 12/06/2023 04:05:52
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 12/06/2023 10:33:42
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:34:33
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:38:28
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:39:00
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:44:05
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:44:32
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 15/06/2023 03:45:11
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 16/06/2023 10:02:57
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 21/06/2023 07:44:12
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 22/06/2023 10:23:10
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 26/06/2023 12:22:04
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 26/06/2023 12:23:06
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 27/06/2023 07:05:27
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 01/07/2023 01:23:15
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:33:43
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:47:49
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:48:43
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:49:39
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:51:03
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 04/07/2023 04:52:11
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 04/07/2023 04:52:22
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 04/07/2023 04:52:56
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:59:18
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 04:59:43
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:00:02
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:00:17
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:00:48
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:01:00
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:01:10
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:01:21
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"user already registered","version":"1.0","statusCode":"E1351"} 04/07/2023 05:03:49
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:08:56
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:20:15
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:23:43
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:32:44
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:38:47
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:44:53
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 05:49:05
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"Success","version":"1.0","statusCode":"S1000"} 04/07/2023 05:49:50
+{"subscriptionStatus":"INITIAL CHARGING PENDING","statusDetail":"Success","version":"1.0","statusCode":"S1000"} 04/07/2023 06:00:59
+{"subscriptionStatus":"PENDING CONFIRMATION","statusDetail":"User confirmation required for subscription.","version":"1.0","statusCode":"E1338"} 04/07/2023 06:00:59

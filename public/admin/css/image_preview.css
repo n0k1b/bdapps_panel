@@ -1,0 +1,135 @@
+input[type="file"] {
+    display: block;
+}
+
+.imageThumb {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+}
+.imageThumb2 {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+}
+
+.imageThumb3 {
+    max-height: 75px;
+    border: 2px solid;
+    padding: 1px;
+    cursor: pointer;
+}
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+.pip2 {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+.pip3 {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+.pip_details {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+.pip_details2 {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+.pip_details3 {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+
+.remove {
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+
+.remove2{
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remove3{
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remove:hover {
+    background: white;
+    color: black;
+}
+.remove2:hover {
+    background: white;
+    color: black;
+}
+
+.remove3:hover {
+    background: white;
+    color: black;
+}
+.remove_details {
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remove_details {
+    background: white;
+    color: black;
+}
+
+.remove_details2 {
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remove_details2 {
+    background: white;
+    color: black;
+}
+
+.remove_details3 {
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+.remove_details3 {
+    background: white;
+    color: black;
+}
